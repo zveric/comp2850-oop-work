@@ -1,0 +1,5 @@
+product: jvm/app
+
+dependencies:
+  - io.kotest:kotest-runner-junit5:5.9.1
+  - io.kotest:kotest-assertions-core:5.9.1
